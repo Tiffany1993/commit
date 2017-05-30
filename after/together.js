@@ -1,0 +1,1 @@
+function one(n){return n+"this is one.js</br>"}function two(n){return n+"this is two.js"}document.write(one("sunny")),document.write(two("rain"));
